@@ -96,6 +96,7 @@ secondary_region_map = {
     "southcentralus": "northcentralus",
     "southcentralus2": "westcentralus",
     "southeastasia": "eastasia",
+    "southeastasia3": "malaysiawest",
     "southeastus": "westus3",
     "southeastus3": "westus3",
     "southeastus5": "centralus",
